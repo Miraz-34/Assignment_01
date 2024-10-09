@@ -1,0 +1,94 @@
+body{
+    padding: 5% 0;
+ }
+.myImageContainer{
+    text-align: center;
+}
+
+.myImage{
+    height: auto;
+    width: 10%;
+    border-radius: 50%;
+    margin: auto 0;
+}
+.myContactContainer{
+   
+    width: 80%;
+   
+    margin: 0 auto;
+    text-align: center;
+}
+
+.myNavbar{
+     text-align: center;
+      
+     
+     background-color: black;
+     padding: 10px 30px;
+     display: flex;
+     justify-content: space-between;
+
+}
+ .navLink{
+    text-decoration: none;
+    color:  white;
+}
+
+.aboutMeContainer{
+    width: 100%;
+     
+     
+}
+
+ 
+
+.htlmCss,.javascript,.bootstrap,.adobePhotoshop,.phpMysql,.intern,.webDevloper,.softwareEngineer,.award-1,.award-2{
+    border-left: 3px solid;
+    padding: 10px 5px;
+    margin-bottom: 10px;
+    background-color: gainsboro;
+    opacity: 0.8;
+    color: black;
+}
+.exparienceName{
+    font-weight: bold;
+    font-size: 1rem;
+}
+hr{
+    margin-bottom: 30px ;
+    height: 3px;
+    background-color: black;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+     
+}
+
+table,th,td{
+    border: 2px solid grey;
+}
+th{
+    background-color: aliceblue;
+}
+/* Achivement awards */
+.input_field{
+    width: 100%;
+    padding: 5px;
+   
+}
+label{
+    padding: 40px 0px;
+    
+}
+/* footer */
+
+.footer_btn{
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0px;
+    background-color:  gainsboro;
+}
+.footer_link{
+    text-align: center;
+}
